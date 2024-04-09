@@ -11,8 +11,6 @@ Welcome to my portfolio repository! This repository houses a collection of proje
 3. **YouTube Analytics & Ranking**:
    - Conducted analytics on YouTube data to understand video performance and ranking factors.
 
-4. **Chatbot using LangChain GPT-2 Model**:
-   - Implemented a chatbot using the LangChain GPT-2 model for natural language processing tasks.
 
 ## SQL Projects:
 1. **Music Store Data Analysis**:
