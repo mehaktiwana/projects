@@ -5,8 +5,8 @@ Welcome to my portfolio repository! This repository houses a collection of proje
 1. **Canadian Immigrants Data Analysis**:
    - Analyzed data related to Canadian immigrants to uncover insights and trends.
    
-2. **Car Price Prediction Analysis**:
-   - Developed a machine learning model to predict car prices based on various features.
+2. **Car Price Data Analysis**:
+   - Analysed a car price model to see which characteristics of cars affect their prices.
 
 3. **YouTube Analytics & Ranking**:
    - Conducted analytics on YouTube data to understand video performance and ranking factors.
